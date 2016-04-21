@@ -1,0 +1,5 @@
+<path id="booking1" fill="none" d="M576.942619142,174.600135139L582.180368912395,127.955972306497" />
+
+<image id="firehorse1" xlink:href="firehorse.gif" x="0" y="0" height="20px" width="20px" transform="scale (-1, 1)" />
+
+<animateMotion xlink:href="#firehorse1" dur="10s" begin="0.4s" fill="freeze" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#booking1" /> </animateMotion>
